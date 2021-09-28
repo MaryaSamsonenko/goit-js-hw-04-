@@ -141,3 +141,10 @@
 // }
 
 // console.log(makeMessage(customer.getFullName)); // Будет ошибка при вызове функции
+
+// const user = {
+//     email: 'tybbc@ufj',
+//     age: 20,
+// };
+// const { email: userEmail } = user;
+// console.log(user.email);
